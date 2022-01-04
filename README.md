@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer and 👾 Gamer
 
-- 🔭 I’m currently working on my [Portafolio][repository]
+- 🔭 I’m currently working on my [Portafolio][portafolio]
 - 🌱 I’m currently learning more about web dev
 - 🤔 I’m looking for help with javascript
 - ⚡ Fun fact: I love videogame y movies but I don't have time to this
