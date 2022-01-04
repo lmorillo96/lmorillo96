@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi [Leandro Morillo][website] here 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/lmorillo96?color=1DA1F2&label=Leandro%20Morillo&logo=twitter&style=flat-square)](https://twitter.com/lmorillo96)
 
 
-**lmorillo96/lmorillo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- Links -->
+[website]: https://lmorillo96.github.io/website_personal/
