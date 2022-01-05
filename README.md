@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer and 👾 Gamer
 
-- 🔭 I’m currently working on my [repository][website]
+- 🔭 I’m currently working on my [Portafolio][portafolio]
 - 🌱 I’m currently learning more about web dev
 - 🤔 I’m looking for help with javascript
 - ⚡ Fun fact: I love videogame y movies but I don't have time to this
@@ -41,7 +41,8 @@ I loves movies, read and videogames.
 
 <!-- Links -->
 [website]: https://lmorillo96.github.io/website_personal/
-[goodreads]: https://www.goodreads.com/
+[portafolio]: https://lmorillo96.github.io/Portafolio/
+[goodreads]: https://www.goodreads.com/user/show/109948245-leandro
 [steam]: https://steamcommunity.com/id/ckufuoy/
 [linkedin]: https://www.linkedin.com/in/leandro-morillo-911622202/
 
