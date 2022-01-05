@@ -13,7 +13,7 @@
 - 🤓 This is my Likedin Profile: [Leandro Morillo][linkedin]
 
 ---
-### About me
+### 👤 About me
 
 My name is Leandro Morillo, I'm Colombian, I graduated as an Industrial engineer but I want to be a web developer. For these reason, I study every day to become one.
 I loves movies, read and videogames.
@@ -28,6 +28,13 @@ I loves movies, read and videogames.
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <br>
+
+---
+
+### 📒 Current Project
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
